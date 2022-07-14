@@ -1,0 +1,16 @@
+D:\Curso generation\Exercicios\Modulo 1\Lista_Csharp\IMC\Imc\bin\Debug\net5.0\Imc.exe
+D:\Curso generation\Exercicios\Modulo 1\Lista_Csharp\IMC\Imc\bin\Debug\net5.0\Imc.deps.json
+D:\Curso generation\Exercicios\Modulo 1\Lista_Csharp\IMC\Imc\bin\Debug\net5.0\Imc.runtimeconfig.json
+D:\Curso generation\Exercicios\Modulo 1\Lista_Csharp\IMC\Imc\bin\Debug\net5.0\Imc.runtimeconfig.dev.json
+D:\Curso generation\Exercicios\Modulo 1\Lista_Csharp\IMC\Imc\bin\Debug\net5.0\Imc.dll
+D:\Curso generation\Exercicios\Modulo 1\Lista_Csharp\IMC\Imc\bin\Debug\net5.0\Imc.pdb
+D:\Curso generation\Exercicios\Modulo 1\Lista_Csharp\IMC\Imc\obj\Debug\net5.0\Imc.csproj.AssemblyReference.cache
+D:\Curso generation\Exercicios\Modulo 1\Lista_Csharp\IMC\Imc\obj\Debug\net5.0\Imc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso generation\Exercicios\Modulo 1\Lista_Csharp\IMC\Imc\obj\Debug\net5.0\Imc.AssemblyInfoInputs.cache
+D:\Curso generation\Exercicios\Modulo 1\Lista_Csharp\IMC\Imc\obj\Debug\net5.0\Imc.AssemblyInfo.cs
+D:\Curso generation\Exercicios\Modulo 1\Lista_Csharp\IMC\Imc\obj\Debug\net5.0\Imc.csproj.CoreCompileInputs.cache
+D:\Curso generation\Exercicios\Modulo 1\Lista_Csharp\IMC\Imc\obj\Debug\net5.0\Imc.dll
+D:\Curso generation\Exercicios\Modulo 1\Lista_Csharp\IMC\Imc\obj\Debug\net5.0\refint\Imc.dll
+D:\Curso generation\Exercicios\Modulo 1\Lista_Csharp\IMC\Imc\obj\Debug\net5.0\Imc.pdb
+D:\Curso generation\Exercicios\Modulo 1\Lista_Csharp\IMC\Imc\obj\Debug\net5.0\Imc.genruntimeconfig.cache
+D:\Curso generation\Exercicios\Modulo 1\Lista_Csharp\IMC\Imc\obj\Debug\net5.0\ref\Imc.dll
